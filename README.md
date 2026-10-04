@@ -1,7 +1,7 @@
 README = """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Léo Leclercq
-**Formation :** L3 Économie / M1 Économie
+**Étudiant :** Léo Leclercq
+**Formation :**  M1 Économie
 **Année :** 2026-2027
 
 ## Description
